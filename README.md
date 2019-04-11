@@ -14,10 +14,10 @@ DATASETS:
         https://meta.stackexchange.com/questions/2677/database-schema-documentation-for-the-public-data-dump-and-sede
 
 AIM: 
-> To categorize these questions into seven catgories. We have came across these catogaries by doing extensive research on the web according to different domains generally front-end-software-developers mainly work on. The details about these categories can be found in preprosseing code.
+> To categorize these questions into seven catgories. We came across these catogaries by doing an extensive research on the web according to the different domains generally front-end-software-developers mainly work on. The details about these categories can be found in the preprocesseing code.
 
 STEPS:
-> From a observation, we found 30K out of 300k questions (from the dataset) had just single tag associated with it.
+> From an observation, we found 30K out of 300k questions (from the dataset) had just single tag associated with it.
 
 > We formulated our categories using these single tag data.
 
